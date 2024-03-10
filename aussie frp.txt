@@ -1,0 +1,4 @@
+aussie server ip : 68.178.247.193
+ftp user mail : hassanahmed@aussieis.com
+ftp pass : h777h777
+port : 21 
